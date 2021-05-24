@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ArmaCalc</string>
+    <string name="main_description_text">Vyber ráži</string>
+    <string name="mm120">120mm</string>
+    <string name="mm82">82mm</string>
+    <string name="d30a">d30a</string>
+    <string name="mm120_description">2B11 120mm</string>
+    <string name="mm82_description">2B14 82mm</string>
+    <string name="d30a_description">D-30A</string>
+    <string name="wrong_range">Neplatná vzdálenost: </string>
+    <string name="range">Vzdálenost: </string>
+    <string name="azimute">Azimut :</string>
+    <string name="range_not_null">Vzdálenost musí být nenulová</string>
+    <string name="mm120_text">Rozsah střelby\n485m-7188m</string>
+    <string name="mm82_text">Rozsah střelby\n100m-4500m</string>
+    <string name="d30a_text">Rozsah střelby\n950m-15400m</string>
+    <string name="charge_0">Nálož 0: </string>
+    <string name="charge_1">Nálož 1: </string>
+    <string name="charge_2">Nálož 2: </string>
+    <string name="charge_3">Nálož 3: </string>
+    <string name="charge_4">Nálož 4: </string>
+    <string name="charge_5">Nálož 5: </string>
+    <string name="charge_6">Nálož 6: </string>
+    <string name="clear_all">Vše vymazat</string>
+    <string name="x2_text">X souřadnice</string>
+    <string name="y2_text">Y souřadnice</string>
+    <string name="x1_text">X souřadnice</string>
+    <string name="y1_text">Y souřadnice</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="yes_button">Ano</string>
+    <string name="no_button">Ne</string>
+    <string name="youtube_confirm_text">Videonávod se otevře v YouTube. Pokračovat?</string>
+    <string name="mortar">Minomet</string>
+    <string name="target">Cíl</string>
+    <string name="altitude">Výška</string>
+    <string name="dper100">D pro 100m</string>
+    <string name="dtarget">D na cíl</string>
+    <string name="elevation_table">Nadmořská výška dle tabulek</string>
+    <string name="elevation_target">Nadmořská výška cíle</string>
+    <string name="angle_result">Úhel:</string>
+    <string name="results">Výsledky</string>
+    <string name="empty_fields">Prosím, vyplntě všechna pole</string>
+    <string name="wrong_charge">Špatná nálož!</string>
+    <string name="all_clear">Všechna pole vyčištěna</string>
+    <string name="hold_3_sec">Držte 3 vteřiny pro vymazání</string>
+
+    <string name="coming_soon">Již brzy</string>
+    <string name="wait_for_more">Prosím, počkejte pro více možností</string>
+
+    <string name="action_settings">Nastavení</string>
+    <string name="action_about">O</string>
+    <string name="faq">FAQ</string>
+    <string name="info">Informace</string>
+    <string name="dark_theme">Tmavý režim</string>
+    <string name="keep_screen">Nevypínat displej</string>
+    <string name="logo_description">Logo aplikace</string>
+
+    <string name="about_link_text">Vytvojáři: <a href="https://github.com/hyvachok">Demid Filippov</a> a <a href="https://github.com/bonjonson">Artem Grishin</a></string>
+    <string name="email_us">Můžete nás kontaktovat na emailu: <a href="mailto:theflyisabird@gmail.com ">theflyisabird@gmail.com</a></string>
+    <string name="hyvachok_link">https://github.com/hyvachok</string>
+    <string name="jhonson_link">https://github.com/bonjonson</string>
+    <string name="youtube_URL">https://youtu.be/ryIWER9ulzw</string>
+    <string name="about_main_text">Balistický počítač pro hru Arma 3</string>
+    <string name="about_warning_text">Pozor! Kompatibilní pouze s mody RHS</string>
+    <string name="about_arma_yext">All rights to the Arma trademark are owned by Bohemia Interactive.</string>
+    <string name="about_wog_text">Tato apliakce je vytvořena speciálně pro WOG3 projekt. Kompatibilita s ostatními projekty není zaručena. Zveme vás na naše týdenní hry. Více informací na stránce projektu <a href="https://wog3.info">wog3.info</a></string>
+
+</resources>

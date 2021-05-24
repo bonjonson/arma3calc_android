@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149502895512",
+    "firebase_url": "https://arma-calc-crash.firebaseio.com",
+    "project_id": "arma-calc-crash",
+    "storage_bucket": "arma-calc-crash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149502895512:android:7190cc8bce1b7773",
+        "android_client_info": {
+          "package_name": "com.github.dn3tao.calcfortraitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149502895512-5bsj30he6v85lrs2lk9tji8jp8u4mdp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqiDwZ-kYo3jVnKr3n7u4X8-A6bpOuso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149502895512-5bsj30he6v85lrs2lk9tji8jp8u4mdp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

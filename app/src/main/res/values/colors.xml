@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8bc34a</color>
+    <color name="colorPrimaryDark">#b50012</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="desert">#b5a587</color>
+    <color name="desert_dark">#85765A</color>
+    <color name="desert_accent">#42a5f5</color>
+    <color name="desert_light">#e8d6b7</color>
+</resources>

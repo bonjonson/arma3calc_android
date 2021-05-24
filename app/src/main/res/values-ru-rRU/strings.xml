@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArmaCalc</string>
+    <string name="about_arma_yext">Все права на торговую марку Arma принадлежат компании Bohemia Interactive.</string>
+    <string name="about_link_text">Разработано <a href="https://github.com/hyvachok">Демидом Филипповым</a> и <a href="https://github.com/bonjonson">Артёмом Гришиным</a></string>
+    <string name="about_main_text">Баллистический калькулятор артиллерии для компьютерной игры Arma 3 от Bohemia Interactive.</string>
+    <string name="about_warning_text">Предупреждение! Совместим только с модом RHS.</string>
+    <string name="action_about">О программе</string>
+    <string name="action_settings">Настройки</string>
+    <string name="all_clear">Все поля очищены</string>
+    <string name="altitude">Высота</string>
+    <string name="angle_result">Угол :</string>
+    <string name="azimute">Азимут :</string>
+    <string name="charge_0">Заряд 0:</string>
+    <string name="charge_1">Заряд 1:</string>
+    <string name="charge_2">Заряд 2:</string>
+    <string name="charge_3">Заряд 3:</string>
+    <string name="charge_4">Заряд 4:</string>
+    <string name="charge_5">Заряд 5:</string>
+    <string name="charge_6">Заряд 6:</string>
+    <string name="clear_all">очистить всё</string>
+    <string name="coming_soon">В ближайшее время</string>
+    <string name="d30a_text">Дальность стрельбы\n950m-15400m</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="dper100">D на 100м</string>
+    <string name="dtarget">D на цель</string>
+    <string name="elevation_table">Высота из таблицы</string>
+    <string name="elevation_target">Высота цели</string>
+    <string name="email_us">Вы можете связаться с нами по e-mail <a href="mailto:theflyisabird@gmail.com ">theflyisabird@gmail.com</a></string>
+    <string name="empty_fields">Пожалуйста заполните все поля</string>
+    <string name="faq">FAQ</string>
+    <string name="d30a">d30a</string>
+    <string name="d30a_description">D-30A</string>
+    <string name="hold_3_sec">Удерживайте 3 секунды чтобы очистить всё</string>
+    <string name="hyvachok_link">https://github.com/hyvachok</string>
+    <string name="info">информация</string>
+    <string name="jhonson_link">https://github.com/bonjonson</string>
+    <string name="keep_screen">Не выключать</string>
+    <string name="logo_description">Логотип приложения</string>
+    <string name="main_description_text">Выберите калибр</string>
+    <string name="mm120">120mm</string>
+    <string name="mm120_description">2B11 120mm</string>
+    <string name="mm120_text">Дальность стрельбы\n485m-7188m</string>
+    <string name="mm82">82mm</string>
+    <string name="mm82_description">2B14 82mm</string>
+    <string name="mm82_text">Дальность стрельбы\n100m-4500m</string>
+    <string name="mortar">Миномёт</string>
+    <string name="no_button">Нет</string>
+    <string name="range">Расстояние :</string>
+    <string name="range_not_null">Расстояние не можеть быть нулевым</string>
+    <string name="results">Результаты</string>
+    <string name="target">Цель</string>
+    <string name="wait_for_more">Ожидайте новых возможностей</string>
+    <string name="wrong_charge">Неправильный заряд!</string>
+    <string name="wrong_range">Неправильное расстояние:</string>
+    <string name="x">X</string>
+    <string name="x1_text">коорд. X</string>
+    <string name="x2_text">коорд. X</string>
+    <string name="y">Y</string>
+    <string name="y1_text">коорд. Y</string>
+    <string name="y2_text">коорд. Y</string>
+    <string name="yes_button">Да</string>
+    <string name="youtube_URL">https://youtu.be/Z1Po8B0iMWw</string>
+    <string name="youtube_confirm_text">Видеоруководство будет открытно на youtube, продолжить?</string>
+    <string name="about_wog_text">Приложение разработано специально для проекта WOG3, совместимость с другими проектами не гарантируется. Приглашаем вас принять участие в наших еженедельных играх. Больше информации по ссылке <a href="https://wog3.info">wog3.info</a></string>
+</resources>

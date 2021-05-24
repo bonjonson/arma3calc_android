@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_info"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="@string/info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_dark_theme"
+        android:checkable="true"
+        android:enabled="false"
+        android:orderInCategory="1"
+        android:title="@string/dark_theme"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_dont_off_screen"
+        android:checkable="true"
+        android:orderInCategory="2"
+        android:title="@string/keep_screen"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_faq"
+        android:orderInCategory="3"
+        android:title="@string/faq"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="4"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+</menu>

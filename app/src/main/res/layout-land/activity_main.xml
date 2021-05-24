@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.github.dn3tao.calcfortraitor.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/MainActivityText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/main_description_text" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/button120"
+                style="@style/MainActivityCards"
+                android:layout_width="0dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                app:cardCornerRadius="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/mm120_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/d120" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:alpha="0.7"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/shadow" />
+
+                <TextView
+                    android:id="@+id/textView120"
+                    style="@style/MainActivityCardsTextBottom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="36dp"
+                    android:text="@string/mm120_description" />
+
+                <TextView
+                    android:id="@+id/textView120Description"
+                    style="@style/MainActivityCardsTextCenter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mm120_text" />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/button82"
+                style="@style/MainActivityCards"
+                android:layout_width="0dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                app:cardCornerRadius="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/mm82_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/d82" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:alpha="0.7"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/shadow" />
+
+                <TextView
+                    android:id="@+id/textView82"
+                    style="@style/MainActivityCardsTextBottom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="45dp"
+                    android:text="@string/mm82_description" />
+
+                <TextView
+                    android:id="@+id/textView82Description"
+                    style="@style/MainActivityCardsTextCenter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mm82_text" />
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/button30"
+                style="@style/MainActivityCards"
+                android:layout_width="0dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                app:cardCornerRadius="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/d30" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:alpha="0.7"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/shadow" />
+
+                <TextView
+                    android:id="@+id/textView30"
+                    style="@style/MainActivityCardsTextBottom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="94dp"
+                    android:text="@string/d30a_description" />
+
+                <TextView
+                    android:id="@+id/textView30Description"
+                    style="@style/MainActivityCardsTextCenter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/d30a_text" />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/emptyCard"
+                style="@style/MainActivityCards"
+                android:layout_width="0dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                app:cardCornerRadius="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/empty" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:alpha="0.7"
+                    android:contentDescription="@string/d30a_description"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/shadow" />
+
+                <TextView
+                    android:id="@+id/textViewEmpty"
+                    style="@style/MainActivityCardsTextBottom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="20dp"
+                    android:text="@string/coming_soon" />
+
+                <TextView
+                    android:id="@+id/textViewEmptyDescription"
+                    style="@style/MainActivityCardsTextCenter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/wait_for_more" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
